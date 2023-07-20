@@ -31,6 +31,7 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
+  color: white;
 }
 
 /*--------------------------------------------------------------
@@ -349,7 +350,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #ffffff;
 }
 
 .about .content ul {
@@ -496,7 +497,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #0047a3;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
